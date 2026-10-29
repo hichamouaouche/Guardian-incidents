@@ -1,0 +1,11 @@
+# Build / dependances
+backend/target/
+frontend/node_modules/
+frontend/dist/
+
+# IDE / systeme
+.idea/
+.vscode/
+*.iml
+.DS_Store
+*.log
