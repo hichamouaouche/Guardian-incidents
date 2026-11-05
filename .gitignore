@@ -9,3 +9,6 @@ frontend/dist/
 *.iml
 .DS_Store
 *.log
+
+# Source Word du rapport (seul le PDF est publie)
+rapport/*.docx
